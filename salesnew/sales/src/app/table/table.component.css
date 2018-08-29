@@ -1,0 +1,7 @@
+td,th {border: 1px rgb(20, 18, 18) solid; padding: 5px; cursor: pointer;}
+table{border-collapse:collapse;width: 100%;}
+
+.highlighted{
+  background: #369;
+  color: #fff;  
+}
